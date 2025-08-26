@@ -1,7 +1,8 @@
 # 🚀 Welcome to My GitHub Profile!!
 
 ---
-![Explore my work](https://dhanishrai.github.io/)
+### 🌍 **Explore My Work:** [🌐 dhanishrai.github.io](https://dhanishrai.github.io/)
+
 ## 👋 Hey there, I'm *Dhanish Rai!*
 
 A passionate *developer* and *tech enthusiast* from Mangalore, always curious about solving real-world problems with code! 🚀
