@@ -16,6 +16,10 @@ A passionate *developer* and *tech enthusiast* from Mangalore, always curious ab
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DhanishRai&theme=radical)](https://git.io/streak-stats)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DhanishRai&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
+
 ---
 
 ## 🎯 *My Tech Stack*
