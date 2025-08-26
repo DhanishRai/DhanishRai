@@ -62,6 +62,8 @@ A passionate *developer* and *tech enthusiast* from Mangalore, always curious ab
 ## 🎖 *GitHub Achievements*
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DhanishRai&theme=radical&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=DhanishRai&theme=onedark&row=1&column=7)
+
 
 ---
 
